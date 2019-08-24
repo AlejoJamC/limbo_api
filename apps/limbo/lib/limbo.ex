@@ -1,6 +1,6 @@
-defmodule LimboApi do
+defmodule Limbo do
   @moduledoc """
-  Documentation for LimboApi.
+  Documentation for Limbo.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule LimboApi do
 
   ## Examples
 
-      iex> LimboApi.hello()
+      iex> Limbo.hello()
       :world
 
   """
